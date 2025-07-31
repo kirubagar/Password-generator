@@ -13,5 +13,4 @@ A simple yet powerful password manager built using Python's `tkinter` library. I
 - ✅ Random password generator using letters, numbers & symbols
 - ✅ Clean and responsive Tkinter GUI
 - ✅ Save credentials to `data.txt`
-- ✅ Clipboard copy support (via `pyperclip`)
 - ✅ Simple confirmation dialogs to prevent bad inputs
